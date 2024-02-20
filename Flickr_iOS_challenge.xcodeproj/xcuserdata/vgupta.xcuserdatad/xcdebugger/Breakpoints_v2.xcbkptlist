@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1EDA84A6-C6A1-4678-A607-BB2C91AA8927"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03D27D28-5D23-4846-9553-B9BE851D8C36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_iOS_challenge/Models/NetworkModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchImages(search:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03D27D28-5D23-4846-9553-B9BE851D8C36 - 818c0780903d68bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "211">
+               </Location>
+               <Location
+                  uuid = "03D27D28-5D23-4846-9553-B9BE851D8C36 - 818c0780903d68bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "03D27D28-5D23-4846-9553-B9BE851D8C36 - 818c0780903d68bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "214">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F232F9B9-1A28-4763-A440-DAC51C22CC42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_iOS_challenge/Models/NetworkModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchImages(search:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F232F9B9-1A28-4763-A440-DAC51C22CC42 - 818c0780903d689a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "F232F9B9-1A28-4763-A440-DAC51C22CC42 - 818c0780903d689a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "415">
+               </Location>
+               <Location
+                  uuid = "F232F9B9-1A28-4763-A440-DAC51C22CC42 - 818c0780903d68fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "479">
+               </Location>
+               <Location
+                  uuid = "F232F9B9-1A28-4763-A440-DAC51C22CC42 - 818c0780903d68fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "450">
+               </Location>
+               <Location
+                  uuid = "F232F9B9-1A28-4763-A440-DAC51C22CC42 - 818c0780903d689a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Flickr_iOS_challenge.NetworkModel.fetchImages() async throws -&gt; ()"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Desktop/Flickr_iOS_challenge/Flickr_iOS_challenge/Models/NetworkModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "458">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC800F1D-053A-49AE-9146-9A894330F218"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_iOS_challenge/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "performSearch(keyword:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67C55C71-9835-495E-BD49-5BD89DCF8AB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_iOS_challenge/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "67C55C71-9835-495E-BD49-5BD89DCF8AB3 - bceed8d34f2b95f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Flickr_iOS_challenge.ContentView.body.getter : some"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Downloads/Flickr_iOS_challenge/Flickr_iOS_challenge/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "67C55C71-9835-495E-BD49-5BD89DCF8AB3 - 8c22569b6d5c9aed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Flickr_iOS_challenge.ContentView.body.getter : some"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Downloads/Flickr_iOS_challenge/Flickr_iOS_challenge/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1245">
+               </Location>
+               <Location
+                  uuid = "67C55C71-9835-495E-BD49-5BD89DCF8AB3 - bceed8d34f2b95f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Flickr_iOS_challenge.ContentView.body.getter : some"
+                  moduleName = "Flickr_iOS_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vgupta/Downloads/Flickr_iOS_challenge/Flickr_iOS_challenge/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
